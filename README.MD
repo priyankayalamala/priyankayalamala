@@ -7,14 +7,16 @@
 ### 🚀 DevOps Engineer  
 **DevOps Engineer | AWS, Terraform, Docker, Kubernetes | CI/CD | Cloud Automation | 4+ Years IT Experience**
 
-
-
-# 💫 About Me:
-DevOps Engineer with **4.6 years of IT experience**, including **nearly 3 years in cloud-native DevOps**.  <br>Specialized in **Terraform, Docker, Kubernetes (EKS), CI/CD pipelines**, and **high-availability systems**.<br><br>
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankayalamala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@priyanka.yalamala1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanka.yalamala1@gmail.com) 
+
+
+---
+
+# 💫 About Me:
+DevOps Engineer with **4.6 years of IT experience**, including **nearly 3 years in cloud-native DevOps**.  <br>Specialized in **Terraform, Docker, Kubernetes (EKS), CI/CD pipelines**, and **high-availability systems**.<br><br>
 
 ---
 

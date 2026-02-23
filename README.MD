@@ -4,14 +4,13 @@
 
 ## 👋 Hi, I’m **Priyanka**
 
-### 🚀 DevOps Engineer  
+###  DevOps Engineer  
 **DevOps Engineer | AWS, Terraform, Docker, Kubernetes | CI/CD | Cloud Automation**
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankayalamala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@priyanka.yalamala1) [![Gmail](https://img.shields.io/badge/Email-priyanka.yalamala1@gmail.com-red?logo=gmail&style=flat)](mailto:priyanka.yalamala1@gmail.com)
-
 
 ---
 

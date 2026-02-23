@@ -46,9 +46,6 @@ DevOps Engineer with **4.6 years of IT experience**, including **nearly 3 years 
 
 ---
 
-
----
-
 ## ⚙️ Skills & Tools
 
 <p align="left">

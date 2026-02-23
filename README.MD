@@ -21,6 +21,22 @@ DevOps Engineer with **4.6 years of IT experience**, including **nearly 3 years 
 
 ---
 
+## 💼 Experience
+
+### **DevOps Engineer**  
+📅 *Sep 2023 – Present*
+
+- Automated AWS infrastructure using **Terraform & Kubernetes**, reducing manual effort by **40%**
+- Designed and maintained **Jenkins CI/CD pipelines**, accelerating releases by **30%**
+- Managed **Kubernetes (EKS)** workloads with auto-scaling and optimized resource utilization
+- Implemented **blue-green deployments**, minimizing downtime during releases
+- Automated Linux administration with **Bash**, eliminating **70% manual tasks**
+
+---
+
+
+---
+
 ## ⚙️ Skills & Tools
 
 <p align="left">

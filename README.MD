@@ -5,7 +5,7 @@
 ## 👋 Hi, I’m **Priyanka**
 
 ### 🚀 DevOps Engineer  
-**DevOps Engineer | AWS, Terraform, Docker, Kubernetes | CI/CD | Cloud Automation | 4+ Years IT Experience**
+**DevOps Engineer | AWS, Terraform, Docker, Kubernetes | CI/CD | Cloud Automation**
 
 ---
 

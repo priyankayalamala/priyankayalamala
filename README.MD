@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/priyankayalamala/priyankayalamala/main/git_banner1.png" alt="GitHub Banner" width="800"/>
+</div>
+
+
 # 💫 About Me:
-DevOps Engineer with **4.6 years of IT experience**, including **2+ years in cloud-native DevOps**.  <br>Specialized in **Terraform, Docker, Kubernetes (EKS), CI/CD pipelines**, and **high-availability systems**.<br><br>
+DevOps Engineer with **4.6 years of IT experience**, including ** nearly 3 years in cloud-native DevOps**.  <br>Specialized in **Terraform, Docker, Kubernetes (EKS), CI/CD pipelines**, and **high-availability systems**.<br><br>
 
 
 ## 🌐 Socials:
